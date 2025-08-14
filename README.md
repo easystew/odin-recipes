@@ -1,0 +1,1 @@
+The current project is Recipes. In this project, I utilized HTML to create three different pages in a website. In these three pages, I incorporated images, links, paragraphs, and other foundational aspects of HTML. 
